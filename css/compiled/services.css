@@ -1,7 +1,7 @@
 /*Service Option 1*/
 #service_1 {
   margin-top: 70px;
-  margin-bottom: 115px; }
+  margin-bottom: 70px; }
   #service_1 .section_header h3 span {
     font-size: 18px;
     line-height: 20px; }
@@ -55,7 +55,12 @@
 
 /*Service Option 2*/
 #service_2 {
-  margin: 40px 0 115px; }
+  background: url("../../img/backgrounds/silver.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  margin: 0px 0 0px; }
   #service_2 .section_header h3 span {
     font-size: 18px;
     line-height: 20px; }
